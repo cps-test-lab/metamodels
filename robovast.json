@@ -167,7 +167,8 @@
       "ObstacleVariation": "vars:ObstacleVariation",
       "obstacle_configs": {
         "@id": "vars:obstacle_configs",
-        "@container": "@list"
+        "@container": "@list",
+        "@type": "@id"
       },
       "amount": {
         "@id": "vars:amount",
