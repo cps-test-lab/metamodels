@@ -199,14 +199,8 @@
       "DynamicObstacle": "vars:DynamicObstacle",
 
       "ObstacleWithDistanceTrigger": "vars:ObstacleWithDistanceTrigger",
-      "spawn_trigger_point": {
-        "@id": "vars:spawn_trigger_point",
-        "@type": "xsd:string"
-      },
-      "spawn_trigger_threshold": {
-        "@id": "vars:spawn_trigger_threshold",
-        "@type": "xsd:string"
-      },
+      "spawn_trigger_point": "robovast:param_name",
+      "spawn_trigger_threshold": "robovast:param_name",
       "trigger_distance": {
         "@id": "vars:trigger_distance",
         "@type": "xsd:float"
