@@ -1,6 +1,5 @@
 {
   "@context": [
-    "https://github.com/secorolab/metamodels/blob/main/prov.json",
     {
       "agn": "https://purl.org/secorolab/metamodels/agent#",
       "scenarios": "https://purl.org/secorolab/metamodels/scenarios/osc/",
