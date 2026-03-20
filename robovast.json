@@ -9,6 +9,7 @@
       "prov": "http://www.w3.org/ns/prov#",
       "dcterms": "http://purl.org/dc/terms/",
       "qudt": "http://qudt.org/schema/qudt/",
+      "unit": "http://qudt.org/vocab/unit/",
       "jazzy": "https://docs.ros.org/en/jazzy/p/",
       "vars": "https://purl.org/robovast/metamodels/variation/",
 
@@ -52,6 +53,10 @@
       "param_values": {
         "@id": "vars:param_values"
       },
+      "hasUnit": {
+        "@id": "qudt:hasUnit",
+        "@type": "@id"
+      }
 
       "ParameterDistribution": "vars:ParameterDistribution",
       "num_variations": {
