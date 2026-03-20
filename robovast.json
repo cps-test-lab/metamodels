@@ -227,7 +227,7 @@
         "@type": "@id"
       },
       "success": {
-        "@id": "robovast:TestResult#success",
+        "@id": "robovast:success",
         "@type": "xsd:boolean"
       },
 
