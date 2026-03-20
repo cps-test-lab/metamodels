@@ -10,7 +10,7 @@
       "dcterms": "http://purl.org/dc/terms/",
       "qudt": "http://qudt.org/schema/qudt/",
       "jazzy": "https://docs.ros.org/en/jazzy/p/",
-      "vars": "https:purl.org/robovast/variation.html#",
+      "vars": "https://purl.org/robovast/metamodels/variation/",
 
       "Campaign": "robovast:Campaign",
 
