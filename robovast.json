@@ -226,7 +226,6 @@
         "@id": "robovast:sysinfo",
         "@type": "@id"
       },
-      "sysinfoprops": "TODO",
       "success": {
         "@id": "robovast:TestResult#success",
         "@type": "xsd:boolean"
