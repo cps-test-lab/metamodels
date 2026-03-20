@@ -56,7 +56,7 @@
       "hasUnit": {
         "@id": "qudt:hasUnit",
         "@type": "@id"
-      }
+      },
 
       "ParameterDistribution": "vars:ParameterDistribution",
       "num_variations": {
